@@ -1,0 +1,26 @@
+{
+  "name": "excel_app",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HHKP1/excel_app.git"
+  },
+  "keywords": [
+    "js",
+    "excel",
+    "application",
+    "javascript"
+  ],
+  "author": "Volodymyr Serdiukov <s.volodymyr82@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HHKP1/excel_app/issues"
+  },
+  "homepage": "https://github.com/HHKP1/excel_app#readme",
+  "private": true
+}
